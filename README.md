@@ -6,8 +6,6 @@
 
 ###
 
-### 👋 Hi, I'm Arman Jamshidi
-
 I'm a passionate developer, designer, and robotics enthusiast with a deep interest in building meaningful software and hardware solutions. My work spans across embedded systems, web development, and automation, and I enjoy solving complex real-world problems by blending electronics with intelligent code.
 
 #### 🧠 What I Do
