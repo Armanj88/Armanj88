@@ -27,7 +27,7 @@ Tools:      ESP32 | Webots | Arduino IDE | VS Code | JetBrains | Git | Linux (Ub
 
 ###
 
-<div align="left" style="background-color: #282a36; border-radius: 4.5px; padding: 20px;">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -54,7 +54,7 @@ Tools:      ESP32 | Webots | Arduino IDE | VS Code | JetBrains | Git | Linux (Ub
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo" style="margin-top: 20px;"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="clion logo"  />
   <img width="14" />
