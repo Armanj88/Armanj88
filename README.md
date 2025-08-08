@@ -10,7 +10,7 @@ I'm a passionate developer, designer, and robotics enthusiast with a deep intere
 
 #### 🧠 What I Do
 - ⚡ **Embedded Systems & Robotics**: I work extensively with **ESP32**, **Arduino**, and real-time operating systems like **FreeRTOS**. Whether it's controlling sensors and actuators or optimizing low-level performance, I love pushing microcontrollers to their limits.
-- 💻 **Full-Stack & WordPress Development**: I build dynamic websites and web apps with **HTML**, **CSS**, **JavaScript**, **PHP**, and **Python**. I also develop custom themes and plugins for **WordPress**.
+- 💻 **Full-Stack & WordPress Development**: I build dynamic websites and web apps with **HTML**, **CSS**, and **PHP**. I also develop custom themes and plugins for **WordPress**.
 - 🎨 **Design & UI/UX**: I believe that design and usability are just as important as functionality. My interfaces are user-friendly, clean, and purpose-driven.
 
 #### 🛠 Languages & Tools I Use
