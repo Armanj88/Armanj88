@@ -66,7 +66,7 @@ Tools:      ESP32 | Webots | Arduino IDE | VS Code | JetBrains | Git | Linux (Ub
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Armanj88&theme=dracula&column=4&row=2&margin-w=25&margin-h=15&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Armanj88&theme=dracula&column=8&row=1&margin-w=25&margin-h=15&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
