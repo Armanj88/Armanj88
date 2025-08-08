@@ -6,6 +6,24 @@
 
 ###
 
+### 👋 Hi, I'm Arman Jamshidi
+
+I'm a passionate developer, designer, and robotics enthusiast with a deep interest in building meaningful software and hardware solutions. My work spans across embedded systems, web development, automation, and machine learning, and I enjoy solving complex real-world problems by blending electronics with intelligent code.
+
+#### 🧠 What I Do
+- ⚡ **Embedded Systems & Robotics**: I work extensively with **ESP32**, **Arduino**, and real-time operating systems like **FreeRTOS**. Whether it's controlling sensors and actuators or optimizing low-level performance, I love pushing microcontrollers to their limits.
+- 💻 **Full-Stack & WordPress Development**: I build dynamic websites and web apps with **HTML**, **CSS**, **JavaScript**, **PHP**, and **Python**. I also develop custom themes and plugins for **WordPress**.
+- 🎨 **Design & UI/UX**: I believe that design and usability are just as important as functionality. My interfaces are user-friendly, clean, and purpose-driven.
+- 🤖 **Computer Vision & AI**: I'm currently working on intelligent robotics projects using **OpenMV**, **Raspberry Pi**, and **machine learning models** for color detection, navigation, and autonomous decision-making.
+- 🔧 **Maker Culture**: I design custom PCBs in **Altium Designer**, prototype with sensors like **APDS9960**, multiplexers, and integrate hardware modules into larger systems.
+
+#### 🛠 Languages & Tools I Use
+```bash
+Languages:  C/C++ | Python | PHP | HTML/CSS
+Frameworks: FreeRTOS | PyQt5 | PlatformIO | WordPress
+Tools:      ESP32 | Webots | Arduino IDE | VS Code | JetBrains | Git | Linux (Ubuntu 24.04)
+```
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Armanj88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Armanj88&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
